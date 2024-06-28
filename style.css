@@ -27,7 +27,7 @@ body{
 }
 
 .logo{
-    background-image:url("C:\Users\KHANS\Desktop\LMS PROJECT\Classaamna\projectsaamna\AmazonClone\amazonpics\amazon_logo.png");
+    background-image:url("amazonpics/amazon_logo.png");
     height:50px;
     width:100%;
     background-size:cover;
@@ -185,7 +185,7 @@ a{
 }
 
 .herosection{
-    background-image: url("C:\Users\KHANS\Desktop\LMS PROJECT\Classaamna\projectsaamna\AmazonClone\amazonpics\hero_image.jpg");
+    background-image: url("amazonpics/hero_image.jpg");
     height:350px;
     background-size: cover;
     display:flex;
